@@ -1,7 +1,9 @@
 Bem-vindo ao ReadMe do Sales System!
 
 Este é um projeto desenvolvido em React para criar uma página de gerenciamento de vendas, oferecendo diversas funcionalidades essenciais para controle e análise de dados de vendas, estoque, pedidos e usuários.
+
 📝 Configurações: Start do Projeto
+
 Antes de executar o projeto, certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 
 Node.js (versão 18.x.x)
@@ -10,7 +12,9 @@ npm (geralmente é instalado junto com o Node.js)
 
 🚦 API Docs
 Clone este repositório em sua máquina local: git clone https://github.com/seu-usuario/gerenciamento-de-vendas-frontend.git
+
 Navegue até o diretório do projeto: cd gerenciamento-de-vendas-frontend
+
 Instale as dependências do projeto: npm install
 
 Executando o Projeto
@@ -18,6 +22,7 @@ Executando o Projeto
 Após a instalação das dependências, você pode iniciar o servidor de desenvolvimento local: npm start
 
 📝 Recursos e Funcionalidades
+
 O projeto é composto pelas seguintes páginas:
 
 Dashboard
